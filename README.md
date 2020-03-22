@@ -1,2 +1,2 @@
 # Wiki of samba 
-<input type ="get details" >
+<button>get details</button>
